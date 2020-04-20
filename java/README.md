@@ -1,9 +1,9 @@
-Execution:
+## Execution:
 
-javac <filename.java>
-java <filename>
+#### javac \<filename.java\>
+#### java \<filename\>
 
-Questions:
+## Questions:
 
 1. WAPIJ to print main thread properties such as ID, name, status etc.
 2. WAPIJ to create and start additional thread extending Thread class 
